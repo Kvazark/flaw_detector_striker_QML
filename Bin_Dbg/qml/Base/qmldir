@@ -1,0 +1,8 @@
+module Base
+BaseText 1.0 BaseText.qml
+ControlPanel 1.0 ControlPanel.qml
+ControlPanelTwo 1.0 ControlPanelTwo.qml
+MultiButton 1.0 MultiButton.qml
+ScopeView 1.0 ScopeView.qml
+singleton ValueEditor 1.0 ValueEditor.qml
+EditableParam 1.0 EditableParam.qml

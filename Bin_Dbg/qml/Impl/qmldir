@@ -1,0 +1,4 @@
+module Impl
+main 1.0 main.qml
+depends StyleModule 1.0
+depends Base 1.0
